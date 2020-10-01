@@ -12,7 +12,7 @@ Usage:
 
 Installation:
 
-git clone https://github.com/kipoph/Vshortcuts
+git clone https://github.com/kipoph/Vshortcuts.git
 
 In chromium based browser navigate to chrome://extensions
 Switch on Developer mode 
